@@ -1,0 +1,92 @@
+[
+	{
+		"id":0,
+		"questao":"o que estamos tratando nesse FAQ?",
+		"resposta":"Do novo Projeto Pedagógico do Curso de Ciência da Computação (PPC). O novo PPC está descrito neste documento e detalha aspectos como as decisões institucionais que levaram à reformulação, as disciplinas pertencentes ao novo plano e a execução curricular sugerida pela coordenação. A partir de agora, vamos nos referir ao novo PPC como Novo Curso."
+	},
+	{
+		"id":1,
+		"questao":"Qual é o novo fluxograma?",
+		"resposta":"O fluxograma do novo curso está disponível no Cursos UFCG. Há também uma versão para impressão."
+	},
+	{
+		"id":2,
+		"questao":"Quais as principais mudanças entre o novo e o antigo PPC?",
+		"resposta":"As principais mudanças estão relacionadas a quatro aspectos: Vários pré-requisitos foram removidos. Isso foi feito para dar mais flexibilidade a casos particulares de execução curricular. Contudo, a coordenação vai acompanhar e controlar as matrículas para que, como regra geral, os pré-requisitos sugeridos sejam cumpridos (em breve lançaremos os  pré-requisitos sugeridos para as disciplinas obrigatórias). Por exemplo, em geral, um aluno de segundo período não pode cursar Projeto de Trabalho de Conclusão de Curso, mesmo que os pré-requisitos formalmente permitam. Algumas disciplinas antes obrigatórias agora são optativas. Por exemplo, Direito e Cidadania, Bancos de Dados II e Informática e Sociedade (veja aqui a lista completa). Assim, concretamente, a carga horária mínima de créditos obrigatórios foi diminuída de 2520 para 1980 horas. Por outro lado, a carga horária mínima de créditos optativos aumentou de 630 para 840. Assim, o curso de Ciência da Computação ofertará disciplinas optativas de forma sistemática, em número maior. As disciplinas optativas irão desempenhar um papel ainda mais importante na formação do aluno. Com o aumento da carga horária mínima de créditos optativos, o aluno poderá personalizar seu curso e especializar-se com mais profundidade em algumas subáreas da Ciência da Computação.  Como consequência, a Unidade Acadêmica de Sistemas e Computação irá  sistematizar a oferta de disciplinas optativas. Para isso, separamos as optativas em 3 trilhas principais: desenvolvimento,  infraestrutura e inteligência. Serão ofertadas várias disciplinas optativas de todas as trilhas a cada semestre, de forma regular, baseado na demanda pelas disciplinas e na visão estratégica da coordenação. O importante é destacar que essa oferta será sistematizada para que o aluno possa ter a oportunidade de planejar as optativas que pretende cursar ao longo do tempo. Trabalho de Conclusão de Curso (TCC) passa a ser obrigatório. Duas novas disciplinas foram criadas para implantar essa mudança: Projeto de Trabalho de Conclusão de Curso e Trabalho de Conclusão de Curso. A coordenação, juntamente com o colegiado e o Núcleo Docente Estruturante (NDE) ainda está definindo a regulamentação do TCC."
+	},
+	{
+		"id":3,
+		"questao":"Quando entrará em vigor?",
+		"resposta":"Em 2018.1."
+	},
+	{
+		"id":4,
+		"questao":"Quem deve migrar? Quem pode optar por continuar no antigo?",
+		"resposta":"Apenas os alunos que irão se formar até 2019.1 (incluso) podem, se desejarem, continuar no curso antigo, com histórico e diploma atrelados ao currículo antigo (disciplinas com o nome antigo)."
+	},
+	{
+		"id":5,
+		"questao":"Qual o mapeamento entre as disciplinas do antigo PPC e do novo curso?",
+		"resposta":"O mapeamento está definido pela portaria 02/2017 (link)."
+	}
+	,
+	{
+		"id":6,
+		"questao":"Quais disciplinas eram obrigatórias e passaram a ser optativas?",
+		"resposta":"Primeiro Período: Leitura e Produção de Textos e Álgebra Vetorial e Geometria Analítica. Segundo Período: Fundamentos de Física Clássica. Terceiro Período: Fundamentos de Física Moderna. Quarto Período: - Quinto Período: Informática e Sociedade e Laboratório de Engenharia de Software. Sexto Período: Direito e Cidadania, Interconexão de Redes de Computadores, Laboratório de Interconexão de Redes de Computadores e Banco de Dados II. Sétimo Período: Métodos de Software Numéricos e Avaliação de Desempenho de Sistemas Discretos."
+	},
+	{
+		"id":7,
+		"questao":"Quais disciplinas deixaram de existir?",
+		"resposta":"Gerência da Informação e LES."
+	},
+	{
+		"id":8,
+		"questao":"Quais disciplinas obrigatórias mudaram de nome?",
+		"resposta":"Matemática Discreta passou a englobar o conteúdo atual e parte do conteúdo de Álgebra vetorial. Seu novo nome é Fundamentos de Matemática para Ciência da Computação II (FMCC II). Estrutura de Dados e Algoritmos passa a se chamar Estrutura de Dados. Laboratório de Estrutura de Dados e Algoritmos passa a se chamar Laboratório de Estrutura de Dados. Álgebra Linear I passa a se chamar Álgebra Linear. Lógica Matemática passa a se chamar Lógica para Computação. Sistemas de Informação I passa a se chamar Projeto de Software. Sistemas de Informação II passa a se chamar Análise de Sistemas. Métodos Estatísticos passa a se chamar Estatística Aplicada. Probabilidade e Estatística passa a se chamar Introdução à Probabilidade. Engenharia de Software I passa a se chamar Engenharia de Software. Organização e Arquitetura de Computadores I passa a se chamar Organização e Arquitetura de Computadores. Inteligência Artificial I passa a se chamar Inteligência Artificial."
+	},
+	{
+		"id":9,
+		"questao":"Quais disciplinas obrigatórias foram criadas?",
+		"resposta":"Fundamentos de Matemática para Ciência da Computação I (FMCC I) Fundamentos de Matemática para Ciência da Computação II (FMCC II) Programação Concorrente Projeto de Trabalho de Conclusão de Curso (PTCC) Trabalho de Conclusão de Curso (TCC)"
+	},
+	{
+		"id":10,
+		"questao":"Cursei Teoria dos Grafos, mas não cursei Aplicações de Teoria dos Grafos. Como fica a minha situação?",
+		"resposta":"Estamos trabalhando com as alternativas. A mais provável é que a gente ofereça Aplicações de Teoria dos Grafos em 2018.1. Importante: essa disciplina vai ser exclusiva para os alunos nessa situação e não deve ser ofertada além de 2018.1."
+	},
+	{
+		"id":11,
+		"questao":"E Gerência da Informação? E LES?",
+		"resposta":"Essas disciplinas só existem no PPC antigo. Isto é, não serão ofertadas no novo curso. Contudo, se você já cursou essas disciplinas, elas serão aproveitadas como Optativas Específicas, como dita a Portaria de Adaptação. Para o caso particular de LES, será ofertada uma disciplina optativa com conteúdo equivalente (gerência ágil de projetos de software para dispositivos móveis), dentro da trilha Desenvolvimento."	},
+	{
+		"id":12,
+		"questao":"E as optativas que cursei?",
+		"resposta":"Todas as optativas que eram válidas no curso anterior serão aproveitadas no curso novo. O aluno não perderá crédito algum."
+	},
+	{
+		"id":13,
+		"questao":"O que pode ser aproveitado como atividade complementar? Há uma referência que eu possa consultar?",
+		"resposta":"O NDE e o colegiado ainda estão trabalhando nessa regulamentação. Por enquanto, vale a regulamentação geral da UFCG."
+	},
+	{
+		"id":14,
+		"questao":"Me explica mais sobre o TCC. O que vale? O que não vale? Como será feita a avaliação? Orientação?",
+		"resposta":"O NDE e o colegiado ainda estão trabalhando nessa regulamentação. Por enquanto, vale a regulamentação geral da UFCG. Contudo, garantimos que nossos esforços estão no sentido de desburocratizar e simplificar o processo de defesas."
+	},
+	{
+		"id":15,
+		"questao":"O que muda no Estágio?",
+		"resposta":"Estágio continua não-obrigatório, mas deixa de ser uma disciplina optativa. O trabalho que você realizar como estagiário será contabilizado como horas complementares."
+	},
+	{
+		"id":16,
+		"questao":"Meu histórico será mantido na migração?",
+		"resposta":"Sim. Todo o seu histórico será mantido. Incluindo aprovações, dispensas e reprovações."
+	},
+	{
+		"id":17,
+		"questao":"Como migrar para o novo curso?",
+		"resposta":"No momento certo, a coordenação convocará todos vocês para assinarem o termo para migrar para o novo curso."
+	}
+]
